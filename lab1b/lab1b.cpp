@@ -10,3 +10,4 @@ int main()
 	cout << " and this is my fourth semester at TJC.";
 	return 0;
 }
+YOUR CODE IS "amazing"
